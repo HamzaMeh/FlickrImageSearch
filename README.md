@@ -1,5 +1,3 @@
-Here's a concise GitHub README description:
-
 # Flickr Image Search App
 
 ## Tech Stack
